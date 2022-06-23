@@ -1,4 +1,4 @@
-Hi 👋 My name is Conrad Krueger
+Hi 👋 My name is Conrad
 ===============================
 
 * 🌍  I'm based in United States
