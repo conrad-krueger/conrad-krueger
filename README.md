@@ -18,9 +18,9 @@ Hi 👋 My name is Conrad
 ### Libraries
 
 <p align="left">
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="36" height="36" alt="numpy" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="42" height="42" alt="numpy" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="matplotlib" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="42" height="42" alt="Pandas" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="Swift" /></a>
 </p>
 
