@@ -1,6 +1,7 @@
 Hi 👋 My name is Conrad
 ===============================
 
+* CS @ TAMU
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [conradjkrueger@gmail.com](mailto:conradjkrueger@gmail.com)
 
